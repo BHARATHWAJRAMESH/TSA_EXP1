@@ -22,7 +22,7 @@ To Develop a python program to Plot a time series data (Air Passenger Data)
 
 # PROGRAM:
 ```python
-DEVELOPED BY: RAMA E.K. LEKSHMI
+DEVELOPED BY: BHARATHWAJ R
 REGISTER NUMBER: 212222240082
 ```
 ```python
